@@ -315,7 +315,7 @@ h1, h2, h3, h4, h5 {
 }
 
 @media screen and (max-width: 500px){
-    .continer{
+    .container{
         width:100%;
     }
     header nav{
@@ -331,6 +331,7 @@ h1, h2, h3, h4, h5 {
         text-align: center;
         border-bottom: 1px solid black;
         padding: 5%;
+        
     }
     .cta .cta-text{
         justify-content: center;
